@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Communitygathering feature.
+ */
+
+include_once 'communitygathering.features.inc';
